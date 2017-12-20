@@ -1,4 +1,7 @@
 Hi this is my initial commit and trying to push to fork account
-which i have forked from square squash free project from the git
+which i have forked from square ash free project from the git
 thanks
+
+adding some more lines in the code  and deleted 3 letters
+
 
